@@ -1,0 +1,15 @@
+{
+  "name": "ca.geogrebrown.dynamicweathersystem",
+  "version": "1.0.0",
+  "displayName": "Dynamic Weather System",
+  "description": "A simple dynamic weather system",
+  "unity": "2020.1.4f1",
+  "dependencies": {
+
+  },
+  "keywords": [ "extensions", "weather" ],
+  "author": {
+    "name": "Minh Son Tran",
+    "email": "minhson.tran@georgebrown.ca"
+  }
+}

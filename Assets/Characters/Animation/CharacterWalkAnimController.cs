@@ -22,6 +22,11 @@ public class CharacterWalkAnimController : MonoBehaviour
     [SerializeField]
     CardinalDirection walkDirection = CardinalDirection.SOUTH;
 
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     // Update is called once per frame
     void Update()
     {
